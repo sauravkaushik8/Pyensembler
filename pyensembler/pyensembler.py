@@ -68,7 +68,6 @@ class ensembler():
         
             self.oof_train.append(a)
             self.oof_test.append(b)
-            print(a)
         
         self.base_predictions_train_df = pd.DataFrame(self.oof_train).T
         self.base_predictions_test_df = pd.DataFrame(self.oof_test).T
