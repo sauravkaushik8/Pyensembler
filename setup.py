@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'pyensembler',
   packages = ['pyensembler'],
-  version = '0.1.01',
+  version = '0.1.02',
   description = 'Take any number of Machine Learning Models as Base Models and one Machine Learning Model as Top model to produce an ensemble of models in Python.',
   author = 'Saurav Kaushik',
   author_email = 'sauravkaushik8@gmail.com',

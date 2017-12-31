@@ -1,1 +1,1 @@
-from pyensembler import ensembler
+from .pyensembler import ensembler
