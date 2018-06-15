@@ -3,9 +3,9 @@
 
   Takes any number of sklearn Machine Learning Models as Base Models and one Machine Learning Model as Top model to produce an ensemble of models.
   
-                           Install from GitHub :  pip3 install git+git://github.com/sauravkaushik8/pyensembler.git
-                                                           OR 
-                                      Install from PyPi :  pip3 install pyensembler
+                   Install from GitHub :  pip3 install git+git://github.com/sauravkaushik8/pyensembler.git
+                                                     OR 
+                                Install from PyPi :  pip3 install pyensembler
 
 ### Example: 
 
